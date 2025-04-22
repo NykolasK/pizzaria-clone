@@ -184,6 +184,13 @@ footer h2::after {
   background: white;
 }
 
+.sobre p{
+  text-align: center;
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .contact-info {
   margin-bottom: 40px;
   max-width: 600px;
